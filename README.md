@@ -32,7 +32,7 @@ but they tend to either:
 
 ## Build
 
-Use ~make~ to package up the zip file. This can be installed from file on
+Use `make` to package up the zip file. This can be installed from file on
 Firefox Developer Edition.
 
 
