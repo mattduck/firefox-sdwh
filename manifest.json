@@ -1,7 +1,7 @@
 {
 
     "manifest_version": 2,
-    "name": "super dumb web highlighter",
+    "name": "sdwh web highlighter",
     "version": "0.1.1",
     "browser_specific_settings": {
         "gecko": {
